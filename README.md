@@ -1,2 +1,1 @@
-My First Readme
-ALX School is so cool
+It feels good to start coding 
